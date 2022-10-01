@@ -12,5 +12,4 @@
 <li>Queue</li>
 <li>LinkedList</li>
 <li>Binary Tree</li>
-<li>Graphs</li>
 </ul>
