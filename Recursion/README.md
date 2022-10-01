@@ -2,7 +2,7 @@
 - In computer science, recursion is a method of solving a computational problem where the solution depends on solutions to smaller instances of the same problem.
 
 # How To Contribute?
-- You Can Contribute in Any Language.
+- You Can Contribute in Any Programming Language.
 - You Can Contribute, Related Question, to Recursion Specifically.
 
 # Note:
