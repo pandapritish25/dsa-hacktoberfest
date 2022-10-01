@@ -1,5 +1,5 @@
 # BackTracking:
-- 
+- Backtracking can be defined as an algorithmic technique that considers searching every possible combination in order to solve a computational problem.
 
 # How To Contribute?
 - You Can Contribute in Any Language.

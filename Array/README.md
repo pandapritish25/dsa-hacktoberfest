@@ -1,5 +1,5 @@
 # Arrays:
-- Linear Data Structure Stores in Contiguous Manner.
+- An array is a collection of items of same data type stored at contiguous memory locations.
 
 # How To Contribute?
 - You Can Contribute in Any Language.
