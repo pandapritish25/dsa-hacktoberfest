@@ -6,7 +6,7 @@
 <li>Star This Repository</li>
 <li>Fork The Repository</li>
 <li>Check Issues for Contributing</li>
-<li>Commit Message Should Be Relevant To The Contribution</li>
+<li>Commit Message Should Be Relevant To The Contribution/PullRequest</li>
 </li>
 </ul>
 <h1>Data Structures/Algorithms:</h1> 
