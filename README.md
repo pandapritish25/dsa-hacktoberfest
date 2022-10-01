@@ -9,7 +9,7 @@
 <li>Commit Message Should Be Relevant To The Contribution</li>
 </li>
 </ul>
-<h1>Data Structures :</h1> 
+<h1>Data Structures/Algorithms:</h1> 
 <ul>
 <li>Array</li>
 <li>Stack</li>
@@ -17,5 +17,6 @@
 <li>LinkedList</li>
 <li>Binary Tree</li>
 </ul>
+<ul><li>Recursion/Backtracking</li></ul>
 <hr>
 <p align="center"><img src = "res/res1.jpg"></p>
