@@ -6,17 +6,13 @@ int main()
 {
     int arr[8] = {1,2,3,5,-3,8,3,6};
 
-    int cs=0,ms=0;
-
-    for(int i = 0; i<8; i++)
-    {
-        cs+=arr[i];
-        if(cs<0)
-            cs=0;
-        ms=max(cs,ms);
+    int ans = arr[0];
+    int sum = arr[0];
+    for(int i =1 ; i<8;i++){
+       sum = max(arr[i],sum+arr[i]);
+       ans = max(ans,sum);
     }
-
-    cout<<ms<<"\n";
+     cout<<ans<<<endl;
 
     return 0;
 }
