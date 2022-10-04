@@ -3,7 +3,7 @@
 <li>This Repository Will Contain All Data Structures and Major Algorithms.</li>
 <li> Steps You Should Follow
 <ul>
-<li>Star This Repository</li>
+<li>Star This Repository, and Follow</li>
 <li>Fork The Repository</li>
 <li>Check Issues for Contributing</li>
 <li>Commit Message Should Be Relevant To The Contribution/PullRequest</li>
